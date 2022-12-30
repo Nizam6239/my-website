@@ -1,0 +1,25 @@
+a{
+    border-color: aliceblue;
+    border-left:2px;
+    border-top: 2px;
+    text-decoration-color: pink;
+    align-self: auto;
+    border-right-width:2px;
+}
+body {
+    color: rgb(201, 76, 76);
+    background-color: rgb(215, 255, 250);
+}
+hr{
+    height: 10px;
+    background-color: black;
+}
+.circular--portrait { 
+    position: relative; width: 200px; height: 200px; overflow: hidden; border-radius: 50%;
+} 
+.circular--portrait img {
+     width: 100%; height: auto; 
+}
+
+
+
